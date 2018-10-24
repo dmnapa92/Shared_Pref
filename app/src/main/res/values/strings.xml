@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shared_Pref</string>
+
+    <string name="pref_file_key">com.example.davenapa.week8_demo1_storingdata_shared_pref.FILE1</string>
+</resources>
